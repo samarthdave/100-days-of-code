@@ -5,9 +5,20 @@ I realized that I (probably) won't have the time or commitment to code for 100 d
 ## Contents
 
 * [:clipboard: Rules](rules.md)
-* [:scroll: Log - click here to see my progress](log.md)
+* ~~Log - click here to see my progress~~
 * [:question: FAQ](FAQ.md)
 * [:books: Resources](resources.md)
+
+# Log
+
+### Day :one:: Wednesday, January 1st, 2020
+
+**Today's Progress**: ...
+
+**Thoughts** ...
+
+**Link(s) to work**
+... Nothing yet
 
 ## Translations :currency_exchange:
 [বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md)
