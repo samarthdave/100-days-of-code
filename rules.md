@@ -1,14 +1,14 @@
 # Rules of the ~~100~~30 Days Of Code Challenge :computer:
 
 ## Main Commitment
-### :one: *I will code for ~~at least an~~ (about) hour every day for the next ~~100~~30 days.*
+### :one: *I will code for ~~at least an~~ (about) an hour every day for the next ~~100~~30 days.*
 
 #### Start Date
 Wednesday, January 1st, 2020
 
 ## Additional Rules
 1. I don't really use twitter. ~~I will tweet about my progress every day -> using the hashtag #100DaysOfCode~~
-2. Personal projects count, not school. ~~If I code at work, that time won't count towards the challenge.~~
+2. Personal projects count, not schoolwork/homework. ~~If I code at work, that time won't count towards the challenge.~~
 3. I'll use the 2 day rule where I can't skip 2 consecutive days. ~~I will push code to GitHub every day so that anyone can see my progress.~~
 4. I will update the (Log)[log.md] with the day's progress and (usually) provide a link so that others can see my progress.
 5. I will work on real projects. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
