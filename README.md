@@ -1,4 +1,6 @@
-# I've joined the ~~100~~30DaysOfCode Challenge
+# I've joined the ~~100~~#30DaysOfCode Challenge
+
+I realized that I (probably) won't have the time or commitment to code for 100 days straight. Here is my attempt (with some acceptions for 30 days - see my rules.md). I feel this is a good start and a tangible way to start off the new year.
 
 ## Contents
 
