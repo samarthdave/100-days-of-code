@@ -1,17 +1,17 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the ~~100~~30 Days Of Code Challenge :computer:
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### :one: *I will code for ~~at least an~~ (about) hour every day for the next ~~100~~30 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+Wednesday, January 1st, 2020
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+1. I don't really use twitter. ~~I will tweet about my progress every day -> using the hashtag #100DaysOfCode~~
+2. Personal projects count, not school. ~~If I code at work, that time won't count towards the challenge.~~
+3. I'll use the 2 day rule where I can't skip 2 consecutive days. ~~I will push code to GitHub every day so that anyone can see my progress.~~
+4. I will update the (Log)[log.md] with the day's progress and (usually) provide a link so that others can see my progress.
+5. I will work on real projects. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
 ## Ideas to make this challenge more effective
@@ -22,7 +22,7 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
 ## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [:clipboard: Rules](rules.md)
+* [:scroll: Log - click here to see my progress](log.md)
+* [:question: FAQ](FAQ.md)
+* [:books: Resources](resources.md)
