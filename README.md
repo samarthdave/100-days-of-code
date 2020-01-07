@@ -15,7 +15,8 @@ I realized that I (probably) won't have the time or commitment to code for 100 d
 
 **What I worked on**: [Connect Four](https://github.com/samarthdave/connect-four)
 
-**Today's :musical_note:**
+**Today's :notes:**
+
 [![Sunflower](media/sunflower.jpg)](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
 
 ### Day :four:: Saturday, January 4th, 2020
@@ -23,6 +24,7 @@ I realized that I (probably) won't have the time or commitment to code for 100 d
 **What I worked on**: [Connect Four](https://github.com/samarthdave/connect-four)
 
 **Today's :musical_note:**
+
 [![Hymn for the Weekend](media/hymn-for-the-weekend.jpg)](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy)
 
 ### Day :three:: Friday, January 3rd, 2020
@@ -30,13 +32,15 @@ I realized that I (probably) won't have the time or commitment to code for 100 d
 **What I worked on**: [Connect Four](https://github.com/samarthdave/connect-four)
 
 **Today's :musical_note:**
+
 [![All The Stars](media/all-the-stars.jpg)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s)
 
 ### Day :two:: Thursday, January 2nd, 2020
 
 **What I worked on**: [CSCE 121 Projects](https://github.com/samarthdave/cs121h-projects) & binged The Mandalorian :))
 
-**Today's :musical_note:**
+**Today's :notes:**
+
 [![The Mandalorian](media/the-mandalorian.jpg)](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0)
 
 ### Day :one:: Wednesday, January 1st, 2020
@@ -44,6 +48,7 @@ I realized that I (probably) won't have the time or commitment to code for 100 d
 **What I worked on**: [SearchSpace API](https://github.com/samarthdave/search-space-api)
 
 **Today's :musical_note:**
+
 [![Adventure of a Lifetime](media/adventure-of-a-lifetime.jpg)](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M)
 
 ----------------------------------------------------------------------------------
