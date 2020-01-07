@@ -11,19 +11,40 @@ I realized that I (probably) won't have the time or commitment to code for 100 d
 
 # Log
 
-### Day :two:: Thursday, January 2nd, 2020
+### Day :five:: Sunday, January 5th, 2020
 
-**Today's Progress/What I worked on**: [CSCE 121 Projects](https://github.com/samarthdave/cs121h-projects) & binged The Mandalorian :))
+**What I worked on**: [Connect Four](https://github.com/samarthdave/connect-four)
 
 **Today's :musical_note:**
-[![The Mandalorian](music/the-mandalorian.jpg)](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0)
+[![Sunflower](media/sunflower.jpg)](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+
+### Day :four:: Saturday, January 4th, 2020
+
+**What I worked on**: [Connect Four](https://github.com/samarthdave/connect-four)
+
+**Today's :musical_note:**
+[![Hymn for the Weekend](media/hymn-for-the-weekend.jpg)](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy)
+
+### Day :three:: Friday, January 3rd, 2020
+
+**What I worked on**: [Connect Four](https://github.com/samarthdave/connect-four)
+
+**Today's :musical_note:**
+[![All The Stars](media/all-the-stars.jpg)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s)
+
+### Day :two:: Thursday, January 2nd, 2020
+
+**What I worked on**: [CSCE 121 Projects](https://github.com/samarthdave/cs121h-projects) & binged The Mandalorian :))
+
+**Today's :musical_note:**
+[![The Mandalorian](media/the-mandalorian.jpg)](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0)
 
 ### Day :one:: Wednesday, January 1st, 2020
 
-**Today's Progress/What I worked on**: [SearchSpaceAPI](https://github.com/samarthdave/search-space-api)
+**What I worked on**: [SearchSpace API](https://github.com/samarthdave/search-space-api)
 
 **Today's :musical_note:**
-[![Adventure of a Lifetime](music/adventure-of-a-lifetime.jpg)](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M)
+[![Adventure of a Lifetime](media/adventure-of-a-lifetime.jpg)](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M)
 
 ----------------------------------------------------------------------------------
 
