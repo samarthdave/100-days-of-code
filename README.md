@@ -1,11 +1,28 @@
-# I've joined the ~~#100~~#30DaysOfCode Challenge
+# I've joined the ~~#100~~#~~30~~31DaysOfCode Challenge
 
 I realized that I (probably) won't have the time or commitment to code for 100 days straight. Here is my attempt (with some exceptions for 30 days - see my rules.md). I feel this is a good start and a tangible way to start off the new year.
 
 # Log :clipboard:
 
-| Day :calendar:                   |  Contribution :computer: |  Today's :notes: |
+| Day :calendar:                   | :computer: Contribution :rocket: | :musical_note: Today's :notes: |
 :---------------------------------:|:------------------------:|:----------------:|
+| Friday, January :three::one:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Instant Crush](media/instant-crush.jpg)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
+| Thursday, January :three::zero:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Mood 4 Eva](media/mood-4-eva.jpg)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) |
+| Wednesday, January :two::nine:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Viva La Vida](media/viva-la-vida.jpg)](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) |
+| Tuesday, January :two::eight:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Alaska - Maggie Rogers](media/alaska.jpg)](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) |
+| Monday, January :two::seven:, 2020 | [CSCE 121 Projects](https://github.com/samarthdave/cs121h-projects) | [![Ocean Eyes](media/ocean-eyes.jpg)](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) |
+| Sunday, January :two::six:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Do It Again - Beach Boys](media/do-it-again.jpg)](https://open.spotify.com/track/0vhCcrN8ULryq1KuEEYlm2) |
+| Saturday, January :two::five:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Wait](media/wait.jpg)](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) |
+| Friday, January :two::four:, 2020 | [d3js](https://github.com/samarthdave/d3js) | [![Something Just Like This](media/something-just-like-this.jpg)](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) |
+| Thursday, January :two::three:, 2020 | [Spotify Snap](https://github.com/samarthdave/spotify-snap) | [![The London](media/the-london.jpg)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) |
+| Wednesday, January :two::two:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Thunder](media/thunder.jpg)](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) |
+| Tuesday, January :two::one:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Con Altura](media/con-altura.jpg)](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) |
+| Monday, January :two::zero:, 2020 | Private Contributions & [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Castle on the Hill](media/castle-on-the-hill.jpg)](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) |
+| Sunday, January :one::nine:, 2020 | Private Contributions | [![Corazon](media/corazon.jpg)](https://open.spotify.com/track/7GhuhS9kCPCa9s09NhlWsv) |
+| Saturday, January :one::eight:, 2020 | Private Contributions | [![Pound Cake](media/pound-cake.jpg)](https://open.spotify.com/track/4NVNapccSX7E5JLiW0uQEy) |
+| Friday, January :one::seven:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Burning](media/burning.jpg)](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) |
+| Thursday, January :one::six:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Lost in Japan](media/lost-in-japan.jpg)](https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv) |
+| Wednesday, January :one::five:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Middle Child](media/middle-child.jpg)](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) |
 | Tuesday, January :one::four:th, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Old Pine](media/old-pine.jpg)](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) |
 | Monday, January :one::three:th, 2020 | [GoProjects](https://github.com/samarthdave/go-projects) | [![Drake - Nonstop](media/nonstop.jpg)](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) |
 | Sunday, January :one::two:th, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![The Wayfarer - Bruce Springsteen](media/the-wayfarer.jpg)](https://open.spotify.com/track/06OV3qRCboo6THc73Vy2l5) |
