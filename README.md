@@ -1,10 +1,10 @@
 # I've joined the ~~#100~~#~~30~~31DaysOfCode Challenge
 
-I realized that I (probably) won't have the time or commitment to code for 100 days straight. Here is my attempt (with some exceptions for 30 days - see my rules.md). I feel this is a good start and a tangible way to start off the new year.
+I realized that I (probably) won't have the time or commitment to code for 100 days straight. Here is my attempt (with some exceptions for 30 days - see my rules.md). I feel this is a good start and a tangible way to start off the new year. I decided to write down a song so there's 31 songs that I couldn't live without.
 
 # Log :clipboard:
 
-| Day :calendar:                   | :computer: Contribution :rocket: | :musical_note: Today's :notes: |
+| Day :calendar:                   | :computer: Contribution :rocket: | :musical_note: Today's Tunes :notes: |
 :---------------------------------:|:------------------------:|:----------------:|
 | Friday, January :three::one:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Instant Crush](media/instant-crush.jpg)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
 | Thursday, January :three::zero:, 2020 | [Reactive Type](https://github.com/samarthdave/reactive-type) | [![Mood 4 Eva](media/mood-4-eva.jpg)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) |
