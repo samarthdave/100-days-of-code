@@ -1,4 +1,4 @@
-# I've joined the ~~#100~~#~~30~~31DaysOfCode Challenge
+# I've joined the ~~#100~~#31DaysOfCode Challenge
 
 I realized that I (probably) won't have the time or commitment to code for 100 days straight. Here is my attempt (with some exceptions for 30 days - see my rules.md). I feel this is a good start and a tangible way to start off the new year. I decided to write down a song so there's 31 songs that I couldn't live without.
 
